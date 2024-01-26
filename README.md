@@ -1,6 +1,6 @@
 # Mike Hart's Portfolio
 
-Hey! thanks for checking this out. It's a work in progress but it's one of my main focuses alongside another provate project I have going on. My [project on github](/projects) shows what's in the pipeline at the moment. Comments & critiques welcome.
+Hey! thanks for checking this out. It's a work in progress but it's one of my main focuses alongside another provate project I have going on. My [project on github](https://github.com/users/boilemmashem/projects/1) shows what's in the pipeline at the moment. Comments & critiques welcome.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
